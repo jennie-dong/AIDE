@@ -1,0 +1,1628 @@
+=== AIDE FORENSIC BATCH REPORT ===
+
+--- Case: jimeng-2025-12-19-1020-洒漏的炒饭盒，炒饭从盒子里洒出，米饭颗粒散落在桌面上，盒子变形，自然写实摄影风格....jpg ---
+Patch Map Found: YES
+**Analysis Steps:**
+
+### Step 1: Detector Confidence
+- **Verdict**: FAKE
+- **Confidence**: 100.00%
+- **Database Retrieval**: High risk with similar cases found.
+
+### Step 2: Feature Map Analysis
+- **Red/Blue Dots (MAX Regions)**: Indicate high-frequency artifacts such as jagged edges or noise. These are visible near the edges of the food container and scattered rice.
+- **Green/Yellow Dots (MIN Regions)**: Indicate low-frequency artifacts like waxy smoothness or texture loss. These are seen on the countertop surface.
+
+### Step 3: Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with natural light coming from a window, but the shadows and reflections on the countertop might not align perfectly with the light source.
+- **Gravity**: The spilled rice seems to be affected by gravity correctly, but the distribution and interaction with the surface may not be entirely natural.
+
+### Step 4: Conclusion
+- **Artifacts**: The presence of high-frequency artifacts suggests possible digital manipulation.
+- **Consistency**: There are minor inconsistencies in lighting and shadow, which could indicate tampering.
+- **Overall Assessment**: The image is likely digitally altered based on the detector's high confidence and the visual artifacts observed.
+
+### Recommendation
+Further investigation into the source and context of the image is advised to confirm its authenticity.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1046-变质的鸡蛋，蛋壳上有斑点，打开后蛋黄散掉，蛋白浑浊，自然写实摄影风格，背景为普通....jpg ---
+Patch Map Found: YES
+### Analysis of the Image and Feature Map
+
+#### Step 1: Check Detector Confidence
+- **Detector Verdict:** FAKE
+- **Confidence:** 100.00%
+- **Database Retrieval:** High risk with similar cases found.
+
+#### Step 2: Analyze Feature Map
+- **Red/Blue Dots (MAX Regions):** Indicate high-frequency artifacts such as jagged edges and noise.
+  - **Red Dot:** Near the egg shell, suggesting potential manipulation.
+  - **Blue Dot:** Near the background, indicating possible inconsistencies.
+  
+- **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts like waxy smoothness and texture loss.
+  - **Green/Yellow Dots:** On the egg yolk and shell, suggesting areas of texture loss or smoothing.
+
+#### Step 3: Check Semantic Consistency
+- **Physical Inconsistencies:**
+  - **Light and Shadow:** The lighting on the egg appears consistent with the environment, but the shadows and reflections may not align perfectly.
+  - **Gravity:** The egg yolk and white appear to be affected by gravity as expected, but the texture might be overly smooth.
+
+#### Step 4: Conclusion Based on Physics & Logic
+- **Conclusion:** The image exhibits signs of digital manipulation, particularly in the areas highlighted by the feature map. The detector's high confidence and database matches further support the likelihood of the image being fake.
+
+### Recommendations
+- Further analysis with additional tools or expert review may be necessary to confirm the extent of manipulation.
+- Consider cross-referencing with other known authentic images for comparison.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1097-stale的饼干，包装袋破损，饼干受潮变软，颜色发暗，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+### 1. Physical Inconsistencies:
+- **Light and Shadow:** The lighting appears consistent across the image. Shadows and highlights on the cookies and packaging align with a single light source, likely from the top left.
+- **Gravity:** The cookies and packaging behave naturally, with no apparent defiance of gravity.
+
+### 2. Frequency Artifacts:
+- **MAX Regions (Red/Blue Dots):** These areas show high-frequency artifacts, indicating potential manipulation. The jagged edges and noise around the cookies and the packaging suggest alterations.
+- **MIN Regions (Green/Yellow Dots):** These areas are smoother, with possible texture loss. The countertop surface appears unusually smooth, which might indicate tampering.
+
+### Conclusion:
+The image shows signs of digital manipulation, particularly around the cookies and packaging. The high-frequency artifacts and smooth regions suggest that elements of the image may have been altered or composited. The detector's high confidence and database matches further support the conclusion that this image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1299-漏汤的外卖盒，底部有汤汁渗出，盒子周围有湿痕，食物看起来有些软烂，自然写实摄影风....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict**: FAKE
+- **Confidence**: 100.00%
+- **Database Retrieval**: High similarity to known fake cases.
+
+#### Step 2: Feature Map Analysis
+- **Red/Blue Dots**: Indicate high-frequency artifacts (jagged edges, noise).
+  - **Red Dot**: Located on the food, suggesting possible manipulation.
+  - **Blue Dot**: On the spilled liquid, indicating potential editing.
+- **Green/Yellow Dots**: Indicate low-frequency artifacts (waxy smoothness, texture loss).
+  - **Green/Yellow Dots**: On the food, suggesting some smoothing or texture loss.
+
+#### Step 3: Physical Inconsistencies
+- **Light and Shadow**: Check for mismatches in shadow direction and light source.
+  - The shadows and lighting appear consistent with a single light source.
+- **Gravity**: The spill and food arrangement seem physically plausible.
+
+#### Step 4: Conclusion
+- **Artifacts**: Presence of high-frequency artifacts suggests manipulation.
+- **Semantic Consistency**: Matches with known fake patterns.
+- **Overall**: Despite physical plausibility, the evidence of digital manipulation is strong.
+
+### Conclusion
+The image is likely digitally altered, as indicated by the feature map and high similarity to known fakes.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1374-发霉的包子盒，透明盒子里的包子表面有绿色霉菌斑点，包子皮变软发黏，自然写实摄影风....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with the shadows cast by the buns and the container. However, the green patches on the buns do not reflect light in a manner consistent with their surroundings, suggesting they may be digitally added.
+- **Gravity**: The buns appear to be resting naturally within the container, consistent with gravitational pull.
+
+#### 2. Frequency Artifacts
+- **MAX Regions (Red/Blue Dots)**: Indicate high-frequency artifacts, such as jagged edges or noise. These are present around the green patches, suggesting digital manipulation.
+- **MIN Regions (Green/Yellow Dots)**: Indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence around the buns suggests areas of potential digital smoothing or alteration.
+
+#### 3. Semantic Consistency
+- **Database Matches**: The image matches known fraud patterns with a high similarity score, indicating a likelihood of manipulation.
+
+### Conclusion
+Based on the detector's high confidence, the feature map analysis, and the presence of frequency artifacts, the image is likely manipulated. The green patches on the buns are inconsistent with natural lighting and texture, suggesting they were digitally added.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1601-腐烂的水果，香蕉表皮发黑斑点，苹果有软化腐烂的部分，橙子表皮皱缩，自然写实摄影风....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image, with shadows falling in the expected directions based on the light source.
+   - **Gravity:** The positioning of the fruits seems natural, with no apparent defiance of gravity.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas show high-frequency artifacts, indicating potential manipulation. The jagged edges and noise around these regions suggest digital alteration.
+   - **MIN Regions (Green/Yellow Dots):** The top left corner shows low-frequency artifacts, which could indicate smoothing or texture loss, but it's minimal and not directly affecting the fruits.
+
+### Conclusion
+
+- **Detector Verdict:** The image is likely manipulated, as indicated by the high detector confidence and the presence of high-frequency artifacts in crucial areas.
+- **Database Retrieval:** The image matches known fraud patterns, further supporting the conclusion of manipulation.
+
+Overall, the evidence suggests that the image has been digitally altered, particularly around the regions marked with high-frequency artifacts.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1633-过期的零食，包装袋破损开裂，里面的零食受潮变软，颜色发暗，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+**Analysis Report**
+
+**Step 1: Detector Confidence**
+- The detector verdict is FAKE with 100% confidence. This indicates strong evidence of manipulation.
+
+**Step 2: Analyze Feature Map**
+- **Red/Blue Dots (MAX Regions):** Indicate high-frequency artifacts. These are present around the edges of the bag and the chips, suggesting possible manipulation in these areas.
+- **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts. These areas show waxy smoothness and texture loss, particularly on the surface of the chips and the bag, which is inconsistent with natural textures.
+
+**Step 3: Check Semantic Consistency**
+- The image matches known fraud patterns with a high similarity score. This supports the detector's verdict.
+
+**Step 4: Physical Inconsistencies**
+- **Lighting and Shadows:** The lighting on the chips and the bag appears inconsistent with the rest of the scene. Shadows do not align naturally with the light source.
+- **Gravity and Positioning:** The positioning of the chips seems slightly unnatural, potentially indicating digital placement.
+
+**Conclusion**
+Based on the analysis of microscopic visual artifacts, semantic consistency, and physical inconsistencies, the image is likely manipulated. The high detector confidence and database match further corroborate this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1706-受潮的薯条盒，纸质薯条盒被水汽浸湿变软，薯条变得 soggy 不酥脆，自然写实摄....jpg ---
+Patch Map Found: YES
+### Analysis Report
+
+**Step 1: Detector Confidence**
+- The detector has a high confidence level of 100% indicating the image is fake.
+- Similar cases found in the database with a top similarity score of 1.00, matching known fraud patterns.
+
+**Step 2: Feature Map Analysis**
+- **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots on the fries and the packaging suggests digital manipulation.
+- **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The dots on the fries and the countertop suggest areas of potential smoothing or blending, which can be a sign of editing.
+
+**Step 3: Physical Inconsistencies**
+- **Light and Shadow:** The lighting on the fries and the reflections on the countertop appear inconsistent with the expected natural lighting conditions. The shadows do not align naturally with the light source.
+- **Gravity and Physics:** The water droplets on the packaging and countertop appear unnaturally placed, lacking realistic interaction with the surfaces.
+
+**Step 4: Conclusion**
+- Based on the high detector confidence, feature map analysis, and observed physical inconsistencies, the image is likely manipulated.
+- The presence of both high-frequency and low-frequency artifacts supports the conclusion of digital alteration.
+
+### Final Verdict
+- The image is confirmed to be fake due to multiple indicators of manipulation.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1762-漏液的披萨盒，披萨盒底部有油渍渗透，盒子边缘变形，披萨上的芝士和配料洒出，盒子里....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single light source from the top left, casting shadows appropriately. However, examine if the reflections and shadows align perfectly with the light source.
+   - **Gravity:** The oil spill should follow the natural slope of the box. Ensure the flow direction and pooling are consistent with gravity.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas indicate high-frequency artifacts, often seen in manipulated images. Check for jagged edges or noise around these regions, particularly near the pizza and oil.
+   - **MIN Regions (Green/Yellow Dots):** These areas suggest low-frequency artifacts, indicating potential smoothing or texture loss. Inspect for unnatural smoothness or lack of detail, especially on the box surface.
+
+### Conclusion
+
+- **Detector Confidence:** The detector's verdict of "FAKE" with 100% confidence suggests significant manipulation.
+- **Database Retrieval:** The high-risk score and similarity to known fraud patterns reinforce this conclusion.
+- **Visual Evidence:** The presence of high-frequency artifacts around the pizza and oil, combined with any physical inconsistencies in light, shadow, or gravity, support the determination of the image being altered.
+
+Further detailed examination of the marked regions and comparison with known authentic images could provide additional insights.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1804-破损的面条包装盒，盖子没有盖紧，面条和汤汁洒出一部分在盒子外面，包装有些变形，自....jpg ---
+Patch Map Found: YES
+**Analysis of Original Image and Feature Map:**
+
+### Step 1: Check Detector Confidence
+- **Verdict:** FAKE
+- **Confidence:** 100.00%
+- **Database Retrieval:** High risk with similar cases found.
+
+### Step 2: Analyze Feature Map
+- **Red/Blue Dots (MAX Regions):** 
+  - Located near the edges of the spilled noodles and sauce.
+  - Indicates high-frequency artifacts such as jagged edges or noise, suggesting possible manipulation.
+
+- **Green/Yellow Dots (MIN Regions):**
+  - Found on the smooth areas of the countertop.
+  - Suggests low-frequency artifacts like waxy smoothness or texture loss, which may indicate digital alteration.
+
+### Step 3: Check Semantic Consistency
+- **Physical Inconsistencies:**
+  - **Light and Shadow:** The lighting appears consistent across the scene, but the shadows and reflections on the sauce might not align perfectly with the light source.
+  - **Gravity:** The way the noodles and sauce spill seems plausible, but the liquid's flow and spread might not fully adhere to natural physics.
+
+### Step 4: Conclusion Based on Physics & Logic
+- **Conclusion:** The image displays signs of digital manipulation, supported by high detector confidence and feature map analysis. The physical inconsistencies, particularly in the sauce's behavior, further suggest the image is not entirely authentic.
+
+Overall, the evidence points toward this image being artificially altered.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-1904-腐烂的水果，香蕉表皮发黑斑点，苹果有软化腐烂的部分，橙子表皮皱缩，自然写实摄影风....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the objects, with shadows falling naturally on the surface. There are no obvious discrepancies in light direction or intensity.
+   - **Gravity and Positioning:** The fruits are positioned naturally on the surface, consistent with gravitational expectations.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** Indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots on the apple and orange suggests possible manipulation in those areas.
+   - **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts, such as waxy smoothness or texture loss. These dots are present in the background, suggesting some smoothing or texture alteration.
+
+3. **Semantic Consistency:**
+   - The image content (fruits on a countertop) is semantically consistent, but the detector's high confidence in a fake verdict and database matches suggest known fraud patterns.
+
+**Conclusion:**
+The image exhibits signs of digital manipulation, particularly around the apple and orange, as indicated by the frequency artifacts. Despite the natural appearance of light and shadow, the detector's confidence and database matches strongly suggest the image is fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2012-打翻的米饭盒，米饭洒在桌面上，盒子倾斜，里面的菜也溢出，自然写实摄影风格，背景为....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the spilled food and the cup appears consistent with the ambient light in the room. Shadows are cast in the expected direction based on the light source.
+   - **Gravity:** The food spilling from the cup follows a natural path consistent with gravity, with rice and vegetables scattered realistically.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots suggests potential manipulation, especially around the edges of the spilled food.
+   - **MIN Regions (Green/Yellow Dots):** These areas indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence of these dots in the background suggests possible alteration or smoothing.
+
+3. **Conclusion:**
+   - The detector verdict and feature map analysis indicate that the image is likely manipulated. The high-frequency artifacts around the spilled food and low-frequency artifacts in the background suggest digital alteration.
+   - The semantic consistency check showing similarities to known fraud patterns further supports this conclusion.
+
+Based on the evidence, the image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2149-变质的豆制品，豆腐表面发粘，有酸味，包装膨胀变形，自然写实摄影风格，背景为普通的....jpg ---
+Patch Map Found: YES
+**Analysis Report:**
+
+**1. Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single light source, casting shadows appropriately. No obvious mismatches in shadow direction or intensity.
+   - **Gravity:** The liquid appears to be pooling naturally due to gravity, with no visible anomalies in flow or distribution.
+
+**2. Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** These are present in areas with sharp edges and noise, such as the edges of the packaging. This suggests potential tampering or digital manipulation in these regions.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):** These indicate areas of smoothness and texture loss, found on the surface of the tofu and parts of the packaging. This could point to digital smoothing or blending.
+
+**3. Semantic Consistency:**
+   - The image content is consistent with a typical kitchen setting, with no immediate logical inconsistencies in the arrangement or appearance of objects.
+
+**Conclusion:**
+Given the high detector confidence and the presence of frequency artifacts, the image likely contains manipulated elements. The physical aspects appear plausible, but the digital artifacts suggest alteration, aligning with known fraud patterns.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2360-自然写实摄影风格，变质的炸鸡盒，炸鸡块颜色发灰，表面有油脂氧化的痕迹，盒子上有油....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image, with shadows falling in expected directions relative to the light source.
+   - **Gravity:** The oil drips and pooling seem to follow a natural gravitational path, consistent with the box's orientation.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas show high-frequency artifacts, indicating potential manipulation. The edges of the fried chicken appear jagged and inconsistent.
+   - **MIN Regions (Green/Yellow Dots):** These areas exhibit low-frequency artifacts, suggesting smoothing or texture loss, particularly on the chicken's surface.
+
+### Conclusion
+
+Based on the high detector confidence and the presence of frequency artifacts, the image likely underwent digital manipulation. The physical properties appear consistent, but the artifacts suggest alterations, possibly to the texture or appearance of the chicken.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2658-变质的肉类，颜色发灰发暗，表面有些粘稠，包装上有液体渗出，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image and Feature Map
+
+#### Step 1: Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with a single light source, casting shadows appropriately. No obvious discrepancies in shadow direction or intensity.
+- **Gravity**: The liquid pooling around the meat is consistent with gravity, showing a natural flow and pooling pattern.
+
+#### Step 2: Frequency Artifacts
+- **MAX Regions (High-Frequency Artifacts)**: The presence of red and blue dots on the feature map indicates potential high-frequency artifacts around the central area of the meat. This suggests possible tampering or digital manipulation in this region.
+- **MIN Regions (Low-Frequency Artifacts)**: Green and yellow dots are seen in the background, indicating areas of low-frequency artifacts, which often appear waxy or overly smooth. This could suggest some smoothing or blending in the background.
+
+#### Step 3: Semantic Consistency
+- The image's content is consistent with a kitchen setting, with a vacuum-sealed piece of meat on a countertop. However, the detector's high confidence in labeling it as fake and the database retrieval of similar cases suggest a pattern of manipulation consistent with known fraud attempts.
+
+#### Step 4: Conclusion
+- **Verdict**: The image is likely manipulated. The high-frequency artifacts in the meat area and the low-frequency artifacts in the background, combined with the detector's confidence and database matches, support this conclusion.
+
+The image should be treated with caution and considered unreliable for authentic representation.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2682-漏汤的外卖盒，底部有汤汁渗出，盒子周围有湿痕，食物看起来有些软烂，自然写实摄影风....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with the shadows cast by the container and the food. The reflections on the liquid spill are coherent with the light source.
+- **Gravity**: The liquid spill behaves naturally, flowing outward from the container, which is consistent with gravity.
+
+#### 2. Frequency Artifacts
+- **MAX Regions (Red/Blue Dots)**: These are present around the edges of the container and the spill. This suggests potential manipulation, as jagged edges and noise are common indicators of digital alteration.
+- **MIN Regions (Green/Yellow Dots)**: These appear on the container lid. The waxy smoothness and texture loss could indicate areas that were smoothed or altered digitally.
+
+#### 3. Semantic Consistency
+- The image matches known fraud patterns, as indicated by the database retrieval, suggesting it may be a part of a series of manipulated images.
+
+### Conclusion
+Based on the high detector confidence, presence of frequency artifacts, and database matches, the image likely contains digital alterations. The physical aspects appear consistent, but the artifacts suggest manipulation, particularly around the container and spill.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2702-发霉的坚果，表面有白色和绿色的霉菌斑点，坚果变软变质，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict**: FAKE
+- **Confidence**: 100.00%
+- **Database Retrieval**: High risk with similar cases found.
+
+#### Step 2: Feature Map Analysis
+- **Red/Blue Dots (MAX Regions)**: Indicate high-frequency artifacts such as jagged edges and noise. These are present on the walnuts, suggesting possible manipulation.
+- **Green/Yellow Dots (MIN Regions)**: Indicate low-frequency artifacts like waxy smoothness and texture loss. These appear on the surface of the table and some parts of the walnuts.
+
+#### Step 3: Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with the shadows cast by the walnuts, suggesting no obvious lighting manipulation.
+- **Gravity and Positioning**: The walnuts appear to be resting naturally on the surface, consistent with gravitational expectations.
+
+#### Step 4: Conclusion
+- **Frequency Artifacts**: The presence of high-frequency artifacts (jagged edges, noise) suggests potential digital manipulation.
+- **Semantic Consistency**: The image matches known fraud patterns in the database, reinforcing the fake verdict.
+
+### Conclusion
+Based on the detector's confidence, feature map analysis, and database retrieval, the image is likely manipulated. The presence of frequency artifacts supports this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2725-自然写实摄影风格，受潮的汉堡盒，纸质盒子被汤汁浸湿变软，汉堡面包变得 soggy....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the shadows on the box and countertop. However, the reflections and highlights on the sauce might not align perfectly with the light source.
+   - **Gravity:** The sauce drips seem to follow gravity naturally, but the pooling might appear slightly exaggerated or inconsistent with the expected viscosity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots near the burger and sauce suggests potential manipulation in these areas.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The dots on the countertop suggest some smoothness inconsistent with the natural texture.
+
+3. **Conclusion:**
+   - The image shows signs of digital manipulation, particularly around the burger and sauce. The frequency artifacts and physical inconsistencies support the detector's verdict of the image being fake. The sauce's appearance and reflections are key areas of concern.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-2739-自然写实摄影风格，变质的炸鸡盒，炸鸡块颜色发灰，表面有油脂氧化的痕迹，盒子上有油....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow**: The lighting on the fried chicken pieces appears inconsistent. The shadows and highlights do not align naturally, suggesting possible digital alteration.
+- **Gravity**: The way the chicken pieces are arranged seems unnatural. They appear to be floating rather than resting naturally within the box.
+
+#### 2. Frequency Artifacts
+- **Red/Blue Dots (MAX Regions)**: Indicate high-frequency artifacts such as jagged edges and noise. These are visible on the chicken pieces, suggesting digital manipulation.
+- **Green/Yellow Dots (MIN Regions)**: Indicate low-frequency artifacts like waxy smoothness and texture loss. The chicken's surface appears overly smooth in some areas, which is atypical for fried food.
+
+#### 3. Semantic Consistency
+- The database retrieval shows a high risk with similar cases, indicating known fraud patterns. This further supports the likelihood of manipulation.
+
+### Conclusion
+The image exhibits multiple signs of digital alteration, including lighting inconsistencies, unnatural object placement, and frequency artifacts. Coupled with the high detector confidence and database matches, it is reasonable to conclude that the image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-3214-腐烂的海鲜，鱼肉发灰发暗，表面粘稠，有腥臭味，包装上有液体渗出，自然写实摄影风格....jpg ---
+Patch Map Found: YES
+### Analysis of Original Image:
+
+1. **Physical Inconsistencies:**
+   - **Lighting:** The light reflections on the plastic bag and the fish appear consistent with a single light source from above, which is typical in a kitchen setting.
+   - **Shadows:** The shadows cast by the fish are consistent with the light source and appear natural.
+   - **Gravity:** The positioning of the fish and the liquid inside the bag aligns with gravitational expectations.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** Indicate areas of high-frequency artifacts, such as jagged edges or noise. These are visible around the edges of the fish, suggesting potential manipulation.
+   - **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts, such as smoothness or texture loss. These are found on the body of the fish, which might indicate areas where texture was artificially smoothed.
+
+### Conclusion:
+
+- **Detector Confidence:** The 99.97% confidence in the fake verdict is supported by the presence of frequency artifacts that suggest manipulation.
+- **Database Retrieval:** The high similarity score with known fraud patterns further corroborates the likelihood of this image being manipulated.
+- **Final Assessment:** Based on the physical consistency and frequency artifacts, the image appears to be digitally altered, aligning with the detector's verdict.
+
+The image likely contains elements that have been artificially modified or enhanced, leading to the conclusion that it is not authentic.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-3309-腐烂的蔬菜，菜叶发黄枯萎，胡萝卜表面有黑斑和软化部分，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+### 1. Physical Inconsistencies:
+- **Light and Shadow:** The lighting on the vegetables appears consistent with a single light source, likely from above. Shadows are cast in a direction that aligns with this light source, indicating no immediate inconsistencies in lighting.
+- **Gravity:** The placement and orientation of the vegetables on the countertop seem natural, with no apparent defiance of gravity.
+
+### 2. Frequency Artifacts:
+- **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of red and blue dots near the carrot suggests potential manipulation in these areas, possibly indicating alterations.
+- **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The green and yellow dots on the countertop suggest areas of potential smoothing or blending, which could be signs of digital editing.
+
+### 3. Semantic Consistency:
+- The database retrieval indicates a high risk with similar cases found in a fake database, suggesting a pattern of manipulation consistent with known fraudulent images.
+
+### Conclusion:
+Based on the detector's high confidence verdict of 99.97% and the presence of high-frequency artifacts around the carrot, along with database matches of known fraud patterns, the image is likely manipulated. The physical properties appear consistent, but the frequency artifacts and database evidence strongly suggest digital alteration.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-3378-自然写实摄影风格，损坏的外卖米饭盒，塑料盒盖子破裂，米饭洒出，里面的配菜已经变干....jpg ---
+Patch Map Found: YES
+**Analysis Summary:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image. Shadows fall naturally based on the light source, which seems to be coming from the left.
+   - **Gravity:** The rice and food placement appear consistent with gravity, spilling naturally from the container.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas indicate high-frequency artifacts, suggesting possible manipulation. The jagged edges and noise around the container and food might be signs of digital alteration.
+   - **MIN Regions (Green/Yellow Dots):** These areas show low-frequency artifacts, indicating smoothness and texture loss, which can also suggest editing, especially in the background.
+
+3. **Semantic Consistency:**
+   - The image matches known fraud patterns, with a high similarity score to cases in the fake database, reinforcing the likelihood of manipulation.
+
+**Conclusion:**
+Based on the detector's verdict, feature map analysis, and physical consistency checks, the image is likely manipulated. The presence of frequency artifacts and database matches supports this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-3436-漏液的披萨盒，披萨盒底部有油渍渗透，盒子边缘变形，披萨上的芝士和配料洒出，盒子里....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image and Feature Map
+
+#### Step 1: Detector Confidence
+- **Verdict**: FAKE
+- **Confidence**: 99.99%
+- **Database Retrieval**: High risk with similarity to known fraud patterns.
+
+#### Step 2: Analyze Feature Map
+- **Red/Blue Dots (MAX Regions)**: These indicate areas with high-frequency artifacts, suggesting potential manipulation. In the image, these dots are located on the pizza, indicating possible alterations in this area.
+- **Green/Yellow Dots (MIN Regions)**: These indicate low-frequency artifacts, showing smoothness or texture loss. These dots are found on the table surface, suggesting potential digital smoothing.
+
+#### Step 3: Check Semantic Consistency
+- **Physical Inconsistencies**:
+  - **Light and Shadow**: The lighting on the pizza and the box appears inconsistent with the rest of the scene. Shadows and highlights do not align naturally.
+  - **Gravity**: The liquid spill seems unnatural in its flow and pooling, not consistent with typical gravitational effects.
+
+#### Step 4: Conclusion
+- **Physics & Logic**: The combination of high-frequency artifacts on the pizza and low-frequency artifacts on the table, along with physical inconsistencies in lighting and liquid behavior, support the detector's verdict of the image being fake.
+
+### Final Conclusion
+The image shows signs of digital manipulation, particularly around the pizza and the liquid spill, confirmed by both the feature map and physical inconsistencies.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-3589-腐烂的海鲜，鱼肉发灰发暗，表面粘稠，有腥臭味，包装上有液体渗出，自然写实摄影风格....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+### Step 1: Physical Inconsistencies
+- **Light and Shadow:** The lighting appears consistent across the image, with shadows falling naturally according to the light source direction. However, the reflections on the fish's surface seem overly smooth and may not match the texture of the skin.
+- **Gravity:** The sauce pooling around the fish looks consistent with gravity, but the way it interacts with the fish’s surface might seem unnatural in some areas.
+
+### Step 2: Frequency Artifacts
+- **Red/Blue Dots (High-Frequency Artifacts):** These indicate areas with potential manipulation, such as jagged edges or noise. The presence of these dots suggests possible alterations around the fish's fins and body.
+- **Green/Yellow Dots (Low-Frequency Artifacts):** These suggest waxy smoothness or texture loss, seen here on the fish’s body, indicating possible digital smoothing or blending.
+
+### Step 3: Semantic Consistency
+- **Database Matches:** The image has a high similarity score with known fake cases, reinforcing suspicions of manipulation.
+
+### Step 4: Conclusion
+Based on the detector's high confidence and the presence of frequency artifacts, the image likely contains digital alterations. The physical inconsistencies, particularly in texture and reflections, support this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-3731-变质的牛奶，包装盒膨胀变形，打开后里面的牛奶呈现凝固状态，有酸味气泡，自然写实摄....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict**: FAKE
+- **Confidence**: 100.00%
+- **Database Retrieval**: High risk with similar cases found.
+
+#### Step 2: Feature Map Analysis
+- **Red/Blue Dots (MAX Regions)**: Indicate high-frequency artifacts such as jagged edges or noise. These are visible on the edges of the carton, suggesting possible digital manipulation.
+- **Green/Yellow Dots (MIN Regions)**: Indicate low-frequency artifacts such as waxy smoothness or texture loss. These are visible on the lower part of the carton, which may suggest smoothing or blending inconsistencies.
+
+#### Step 3: Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with the shadows cast, but further inspection is needed to confirm if they align naturally.
+- **Gravity**: The liquid inside the carton appears to behave naturally with realistic surface tension and bubbles.
+
+#### Step 4: Conclusion
+- **Artifacts**: Presence of high-frequency artifacts suggests potential manipulation.
+- **Consistency**: Despite the artifacts, the physical properties like light and gravity appear logical.
+  
+Given the high detector confidence and the presence of artifacts, the image is likely digitally altered. Further investigation into the context and source is recommended to confirm authenticity.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4008-发霉的坚果，表面有白色和绿色的霉菌斑点，坚果变软变质，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+**Analysis Summary:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the shadows cast by the almonds on the countertop. However, the mold's texture and appearance might not align perfectly with natural lighting, suggesting possible digital manipulation.
+   - **Gravity:** The almonds are positioned naturally, with no apparent defiance of gravity.
+
+2. **Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** These are visible on the mold patches, indicating potential digital alterations. The jagged edges and noise suggest that these areas may have been artificially added or modified.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):** The smoothness and texture loss noted in these areas further support the possibility of manipulation, particularly around the mold.
+
+3. **Semantic Consistency:**
+   - The image matches known fraud patterns, as indicated by the database retrieval. The high similarity score suggests that this image shares characteristics with other digitally altered images.
+
+**Conclusion:**
+The combination of physical inconsistencies, frequency artifacts, and database matches strongly indicates that the image is digitally manipulated. The mold on the almonds is likely artificially added, aligning with the detector's verdict of the image being fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4137-腐烂的蔬菜，菜叶发黄枯萎，胡萝卜表面有黑斑和软化部分，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+**Analysis Report**
+
+**Step 1: Detector Confidence**
+- The detector verdict is FAKE with a 100% confidence level, indicating strong evidence of manipulation.
+
+**Step 2: Analyze Feature Map**
+- **Red/Blue Dots (MAX Regions)**: These indicate high-frequency artifacts, such as jagged edges or noise, which can suggest digital tampering. The presence of these dots on the carrot suggests potential manipulation in this area.
+- **Green/Yellow Dots (MIN Regions)**: These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence of these dots near the carrot suggests possible smoothing or blending, which is common in edited images.
+
+**Step 3: Check Semantic Consistency**
+- The database retrieval indicates high risk, with three similar cases found in the fake database. This suggests a pattern consistent with known fraudulent images.
+
+**Step 4: Physical Inconsistencies**
+- **Light and Shadow**: The lighting on the carrot appears inconsistent with the surrounding objects, which can be a sign of compositing.
+- **Gravity and Positioning**: The carrot's positioning and interaction with the surface might not align naturally, suggesting possible manipulation.
+
+**Conclusion**
+Based on the detector's high confidence, feature map artifacts, and physical inconsistencies, the image is likely digitally manipulated. The evidence aligns with known fraud patterns, confirming the fake verdict.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4148-发芽的土豆，表面有绿色斑点，长出长长的嫩芽，土豆表皮皱缩，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+**Analysis Summary:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a natural indoor setting. Shadows are soft and align with the light source, suggesting no immediate physical inconsistencies.
+   - **Gravity:** The potato and its sprouts appear to be resting naturally on the surface, consistent with gravitational expectations.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** The presence of high-frequency artifacts around the marked area indicates possible manipulation. This could manifest as unnatural edges or noise, particularly where the dots are located.
+   - **MIN Regions (Green/Yellow Dots):** The smoothness and texture loss in these areas suggest possible editing to blend or alter the surface, especially around the green spots.
+
+3. **Semantic Consistency:**
+   - The image matches known fraud patterns, as indicated by the database retrieval, with a high similarity score. This suggests the image may have been altered in a way consistent with other known fake images.
+
+**Conclusion:**
+The image shows signs of manipulation, particularly around the areas marked with frequency artifacts. The green spots and some surface textures appear inconsistent with natural potato characteristics. Given the detector's high confidence and database match, the image is likely altered.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4358-过期的罐头食品，罐头表面有锈迹，标签发黄褪色，有些罐头盖子鼓起变形，自然写实摄影....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image, with shadows cast by the cans aligning with a single light source. However, the reflections and highlights on the cans might not align perfectly, suggesting possible manipulation.
+   - **Gravity:** The cans appear to be positioned naturally, with no obvious defiance of gravity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of red dots on the open can lid suggests potential tampering or digital alteration in that area.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, like waxy smoothness or texture loss. The green dot on the label suggests smoothing, which could indicate editing.
+
+### Conclusion
+
+- **Detector Verdict:** The image is highly likely to be fake, as indicated by the 99.97% confidence level.
+- **Database Retrieval:** The image matches known fraud patterns, further supporting the likelihood of manipulation.
+- **Visual Evidence:** The feature map highlights areas of potential digital editing, particularly around the can lid and label.
+
+Overall, the combination of high detector confidence, database matches, and visual artifacts strongly suggests that the image has been digitally manipulated.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4677-变质的肉类，颜色发灰发暗，表面有些粘稠，包装上有液体渗出，自然写实摄影风格，自然....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict:** FAKE
+- **Confidence:** 99.88%
+- **Database Retrieval:** High risk with similar cases found, indicating known fraud patterns.
+
+#### Step 2: Feature Map Analysis
+- **MAX Regions (High-Frequency Artifacts):** 
+  - **Red/Blue Dots:** Indicate potential areas with jagged edges or noise, suggesting digital manipulation.
+  
+- **MIN Regions (Low-Frequency Artifacts):**
+  - **Green/Yellow Dots:** Indicate waxy smoothness or texture loss, which can be signs of image tampering.
+
+#### Step 3: Semantic Consistency
+- **Physical Inconsistencies:** 
+  - **Light and Shadow:** Check for inconsistencies in lighting and shadows that do not align with the natural light source.
+  - **Gravity:** Ensure the liquid and packaging behave naturally under gravity.
+
+#### Step 4: Conclusion
+- **Artifacts:** Presence of both high and low-frequency artifacts suggests significant digital alteration.
+- **Physical Logic:** If lighting, shadows, or liquid behavior appear unnatural, this further supports the fake verdict.
+
+### Final Conclusion
+Based on the detector confidence, feature map analysis, and potential physical inconsistencies, the image is likely digitally manipulated. The high similarity to known fraud patterns reinforces this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4745-腐烂的蔬菜，西兰花发黄枯萎，花椰菜有黑斑和软化部分，自然写实摄影风格，背景为普通....jpg ---
+Patch Map Found: YES
+**Analysis:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image, with shadows falling naturally based on the light source. There are no obvious discrepancies in shadow direction or intensity.
+   - **Gravity:** The broccoli and cauliflower are positioned naturally on the countertop, with no signs of defying gravity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts such as jagged edges or noise. The presence of red and blue dots suggests potential manipulation in those areas, possibly around the burnt spots.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts such as waxy smoothness or texture loss. The green and yellow dots suggest areas of smoothness that might be unnatural, particularly on the surface of the vegetables.
+
+3. **Semantic Consistency:**
+   - The database retrieval indicates a high risk, with similar cases found in known fraud patterns. This suggests that the image may have been altered in a manner consistent with other fake images.
+
+**Conclusion:**
+Based on the detector's confidence and the feature map analysis, the image likely contains manipulated elements, particularly around the burnt spots on the vegetables. The physical properties appear consistent, but the frequency artifacts and database matches strongly suggest alterations.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4791-变质的牛奶，包装盒膨胀变形，打开后里面的牛奶呈现凝固状态，有酸味气泡，自然写实摄....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a typical indoor setting, with shadows falling correctly relative to the light source. However, the reflections on the metallic surface of the carton may not align perfectly with the expected light direction.
+   - **Gravity:** The liquid inside the carton seems to behave naturally, with surface tension and bubbles appearing realistic.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These indicate high-frequency artifacts, often seen as jagged edges or noise. The presence of these dots around the carton’s opening suggests possible manipulation, such as altering the contents or the carton’s shape.
+   - **MIN Regions (Green/Yellow Dots):** These indicate low-frequency artifacts, characterized by smoothness or texture loss. The dots on the carton’s surface may suggest areas where the texture has been artificially smoothed, possibly indicating tampering.
+
+3. **Conclusion:**
+   - Given the detector's high confidence level and the presence of both high and low-frequency artifacts, it is likely that the image has been manipulated. The physical properties, while mostly consistent, show minor discrepancies that support this conclusion. The database retrieval further supports the likelihood of this being a fake image, matching known fraud patterns.
+
+Overall, the evidence strongly suggests that the image has been altered.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4810-发霉的面包片，表面有绿色和白色的霉菌斑点，面包边缘有些干硬开裂，自然写实摄影风格....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the shadows cast by the bread on the countertop. There are no obvious discrepancies in the direction or intensity of light.
+   - **Gravity:** The bread is positioned naturally on the countertop, with no signs of defying gravity.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas indicate high-frequency artifacts, suggesting potential manipulation. The jagged edges and noise around these dots are typical signs of digital alteration.
+   - **MIN Regions (Green/Yellow Dots):** These areas show low-frequency artifacts, which can indicate smoothing or texture loss, often used to blend manipulated sections with the original image.
+
+3. **Conclusion:**
+   - The evidence from the feature map, combined with the detector verdict and database retrieval, strongly suggests that the image has been digitally altered. The presence of high-frequency artifacts in key areas supports this conclusion, aligning with known fraud patterns.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4853-变酸的酸奶，包装盒膨胀变形，打开后酸奶呈现凝固状态，有酸味气泡，自然写实摄影风格....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a typical indoor setting. Shadows are cast naturally, aligning with the light source from the top left.
+   - **Gravity:** The yogurt's texture and flow seem consistent with gravitational pull, with no apparent anomalies in how it settles or spills.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These areas indicate high-frequency artifacts, suggesting possible manipulation. The presence of these dots on the yogurt and lid could indicate alterations.
+   - **Green/Yellow Dots (MIN Regions):** These areas show low-frequency artifacts, which might suggest smoothing or texture loss. The dots on the background suggest minor edits.
+
+### Conclusion
+
+- **Detector Confidence:** The detector's verdict of 100% fake is supported by the presence of high-frequency artifacts, indicating potential digital manipulation.
+- **Database Retrieval:** The high-risk similarity score with known fraud patterns further supports the likelihood of this image being manipulated.
+
+Overall, the evidence suggests that the image has been digitally altered, particularly around the yogurt and lid areas.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-4942-发霉的奶酪，表面有绿色和蓝色的霉菌，奶酪边缘干硬开裂，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with a single light source, casting shadows appropriately. No obvious discrepancies in shadow direction or intensity.
+- **Gravity**: The cheese block rests naturally on the surface, with no signs of defying gravity.
+
+#### 2. Frequency Artifacts
+- **MAX Regions (Red/Blue Dots)**: 
+  - Located on the top edge of the cheese, indicating potential high-frequency artifacts like jagged edges or noise.
+  - Suggests manipulation or compositing in these areas.
+  
+- **MIN Regions (Green/Yellow Dots)**:
+  - Found on the side of the cheese, indicating low-frequency artifacts such as waxy smoothness or texture loss.
+  - Suggests smoothing or blending, possibly to hide edits.
+
+#### 3. Semantic Consistency
+- The cheese appears realistic, but the detector's high confidence in it being fake and the database matches suggest it follows known fraud patterns.
+
+### Conclusion
+Based on the analysis of physical inconsistencies and frequency artifacts, the image likely contains manipulated elements, particularly around the edges and surface texture of the cheese. The detector's verdict and database matches reinforce the likelihood of this image being fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5010-自然写实摄影风格，发霉的饺子盒，透明盒子里的饺子表面有白色霉菌斑点，饺子皮变软变....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image, with shadows falling naturally based on the light source direction.
+   - **Gravity:** The positioning of the dumplings in the container seems physically plausible, with no obvious defiance of gravity.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas show high-frequency artifacts, indicating potential manipulation. The edges of the dumplings and mold spots may have been altered.
+   - **MIN Regions (Green/Yellow Dots):** The smooth areas suggest texture loss, possibly due to editing to blend or cover up inconsistencies.
+
+### Conclusion
+
+Based on the detector's verdict and the analysis of the feature map, the image shows signs of digital manipulation, particularly around the dumplings and mold spots. The presence of high-frequency artifacts and texture inconsistencies supports the conclusion that the image is fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5076-自然写实摄影风格，发霉的饺子盒，透明盒子里的饺子表面有白色霉菌斑点，饺子皮变软变....jpg ---
+Patch Map Found: YES
+**Analysis Report**
+
+**Step 1: Detector Confidence (Hard Evidence)**
+- The detector verdict is FAKE with a high confidence of 99.97%.
+- Database retrieval indicates a high risk, with three similar cases found in a fake database.
+
+**Step 2: Analyze Feature Map (Microscopic Visual Artifacts)**
+- **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts such as jagged edges or noise. The presence of these dots suggests potential tampering or digital manipulation.
+- **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts like waxy smoothness or texture loss. Their presence suggests areas that may have been overly smoothed or altered.
+
+**Step 3: Check Semantic Consistency (Database Matches)**
+- The image matches known fraud patterns, as indicated by the database retrieval results.
+
+**Step 4: Physical Inconsistencies (Light, Shadow, Gravity)**
+- **Light and Shadow:** Ensure that the lighting and shadows are consistent with the environment. Any discrepancies might indicate manipulation.
+- **Gravity and Positioning:** Check if the objects are positioned naturally according to gravity. Any unnatural positioning could be a sign of editing.
+
+**Conclusion:**
+Based on the high detector confidence, feature map analysis, and database matches, the image is likely digitally manipulated. The presence of artifacts and inconsistencies supports this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5183-有异物的面条盒，面条里混有头发丝、塑料片等异物，面条颜色发暗，自然写实摄影风格，....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the noodles and the foreign objects (hair and plastic) appears inconsistent. The shadows and highlights on the objects do not match the overall lighting of the scene, suggesting they may have been digitally added.
+   - **Gravity:** The positioning of the hair seems unnatural, as it appears to be hovering slightly above the noodles rather than resting on them.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (High-Frequency Artifacts):** 
+     - The red and blue dots indicate areas with high-frequency artifacts, such as jagged edges or noise. These are present around the plastic pieces and certain parts of the noodles, suggesting possible digital manipulation.
+   - **MIN Regions (Low-Frequency Artifacts):** 
+     - The green and yellow dots indicate low-frequency artifacts, like waxy smoothness or texture loss. These appear in areas where the image might have been smoothed or altered to blend edits.
+
+### Conclusion
+
+Based on the detector's high confidence verdict of 99.95% and the presence of visual artifacts, the image likely contains digitally manipulated elements, particularly the hair and plastic pieces. The inconsistencies in lighting, shadow, and texture support this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5669-发芽的土豆，表面有绿色斑点，长出长长的嫩芽，土豆表皮皱缩，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image and Feature Map
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent with a single light source, likely from above. Shadows cast by the potato and its sprouts align with this light direction.
+- **Gravity**: The potato and its sprouts appear to be resting naturally on the countertop, consistent with gravitational forces.
+
+#### 2. Frequency Artifacts
+- **MAX Regions (Red/Blue Dots)**: These indicate high-frequency artifacts, such as jagged edges or noise. The presence of red and blue dots near the sprouts suggests potential manipulation in these areas.
+- **MIN Regions (Green/Yellow Dots)**: These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The green and yellow dots on the potato surface suggest areas of potential smoothing or texture alteration.
+
+#### 3. Semantic Consistency
+- The potato and its surroundings appear contextually consistent with a kitchen setting. However, the feature map suggests digital alterations, particularly around the sprouts.
+
+### Conclusion
+Based on the detector's verdict and the analysis of the feature map, the image shows signs of digital manipulation, particularly around the sprouts. The presence of high-frequency artifacts and texture inconsistencies supports the conclusion that this image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5707-自然写实摄影风格，漏水的汤杯，纸质汤杯底部有破洞，汤汁渗漏出来，杯身变形，里面的....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the environment. Shadows are cast naturally, suggesting a coherent light source.
+   - **Gravity:** The liquid spilling from the cup follows a natural path, consistent with gravitational pull.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (High-Frequency Artifacts):** The blue dot indicates potential jagged edges or noise around the damaged area of the cup. This could suggest manipulation.
+   - **MIN Regions (Low-Frequency Artifacts):** The green and yellow dots indicate areas of smoothness, possibly indicating texture loss or blending inconsistencies.
+
+**Conclusion:**
+
+Despite the realistic appearance, the feature map highlights potential manipulations, particularly around the damaged area of the cup. The high confidence in the detector verdict and database matches further supports the conclusion that the image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5845-变酸的酸奶，包装盒膨胀变形，打开后酸奶呈现凝固状态，有酸味气泡，自然写实摄影风格....jpg ---
+Patch Map Found: YES
+**Analysis Summary:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single light source, but the shadows on the foil lid and the container do not align perfectly, suggesting possible manipulation.
+   - **Gravity:** The way the liquid is suspended and the bubbles are formed seems unnatural, indicating potential digital alteration.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, suggesting jagged edges or noise. The presence of these dots on the liquid surface and the foil lid suggests possible editing in these areas.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence around the edges of the container and the lid suggests smoothing or blending, common in digital manipulation.
+
+3. **Semantic Consistency:**
+   - The image matches known fraud patterns, as indicated by the database retrieval with high similarity scores. This further supports the likelihood of manipulation.
+
+**Conclusion:**
+Based on the detector's verdict, feature map analysis, and physical inconsistencies, the image is likely digitally manipulated. The artifacts and inconsistencies suggest significant editing, aligning with the high-risk database matches.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-5860-被压扁的汉堡包装，汉堡面包变形，生菜和酱料挤出包装外，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis of Original Image and Feature Map
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow:** The lighting on the burger appears consistent with the ambient light in the room. Shadows are cast in a direction that aligns with the light source.
+- **Gravity:** The sauce dripping from the burger behaves naturally, adhering to gravitational pull.
+
+#### 2. Frequency Artifacts
+- **MAX Regions (Red/Blue Dots):** These areas indicate high-frequency artifacts, suggesting potential manipulation. The presence of these dots around the burger and sauce could imply alterations.
+- **MIN Regions (Green/Yellow Dots):** These indicate low-frequency artifacts, which suggest texture smoothing. The bun and lettuce show signs of such smoothing, which may be unnatural.
+
+#### 3. Semantic Consistency
+- **Database Matches:** The image has high similarity with known fake patterns. This increases suspicion despite the realistic appearance.
+
+### Conclusion
+The image, while appearing realistic, shows signs of digital manipulation, particularly around the burger and sauce. The high confidence in the detector's verdict and database matches strongly suggest the image is not authentic.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6098-过期的零食，包装袋破损开裂，里面的零食受潮变软，颜色发暗，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the shadows on the chips and the countertop. There are no obvious discrepancies in the direction or intensity of the shadows.
+   - **Gravity:** The chips appear to be resting naturally inside the bag, with no signs of manipulation that defy gravity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of red and blue dots suggests potential manipulation around the edges of the bag and chips.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as smoothness or texture loss. The green and yellow dots on the chips suggest areas where texture might have been artificially smoothed or altered.
+
+3. **Semantic Consistency:**
+   - The database retrieval indicates a high risk, with similar cases found in a fake database. This suggests a pattern consistent with known fraudulent images.
+
+**Conclusion:**
+Based on the detector's verdict, the high similarity to known fake patterns, and the presence of frequency artifacts, the image is likely manipulated. The physical elements appear consistent, but the artifacts suggest digital alterations.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6265-破损的奶茶杯，奶茶杯盖脱落，奶茶洒出，杯身有裂缝，珍珠和椰果散落，自然写实摄影风....jpg ---
+Patch Map Found: YES
+### Analysis of the Image:
+
+#### 1. Physical Inconsistencies:
+- **Light and Shadow**: The lighting appears consistent with a single light source, but shadows may not align perfectly with the objects.
+- **Gravity**: The liquid and pearls spilling from the cup seem to follow a natural trajectory, but the cracks on the cup may not align realistically with the spill pattern.
+
+#### 2. Frequency Artifacts:
+- **Red/Blue Dots (MAX Regions)**: These indicate high-frequency artifacts, such as jagged edges and noise, around the cracked cup and spilled liquid. This suggests possible digital manipulation in these areas.
+- **Green/Yellow Dots (MIN Regions)**: These indicate low-frequency artifacts, such as waxy smoothness and texture loss, particularly on the countertop and the cup lid. This suggests potential smoothing or blending edits.
+
+#### 3. Semantic Consistency:
+- The image matches known patterns of digital manipulation found in similar fake cases, as indicated by the database retrieval.
+
+### Conclusion:
+Based on the analysis of physical inconsistencies and frequency artifacts, the image likely contains digital alterations, especially around the cup and the spill. The detector's verdict of "FAKE" with high confidence is supported by these findings.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6399-破损的奶茶杯，奶茶杯盖脱落，奶茶洒出，杯身有裂缝，珍珠和椰果散落，自然写实摄影风....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict**: Fake
+- **Confidence**: 99.98%
+- **Database Retrieval**: High risk with known fraud patterns.
+
+#### Step 2: Feature Map Analysis
+- **Red/Blue Dots (MAX Regions)**: Indicate high-frequency artifacts such as jagged edges and noise.
+  - **Location**: Near the cup and the spill.
+  - **Implication**: Potential manipulation around these areas.
+
+- **Green/Yellow Dots (MIN Regions)**: Indicate low-frequency artifacts like waxy smoothness and texture loss.
+  - **Location**: Near the lid and countertop.
+  - **Implication**: Possible signs of digital alteration or smoothing.
+
+#### Step 3: Physical Inconsistencies
+- **Light and Shadow**: 
+  - The lighting on the spilled liquid and the cup does not seem consistent with a single light source. Shadows are not clearly defined, which could indicate manipulation.
+  
+- **Gravity**:
+  - The way the liquid and ice cubes are positioned and spread does not fully align with natural spill patterns. The liquid appears too uniform, and the ice cubes seem unnaturally placed.
+
+#### Step 4: Conclusion
+- **Frequency Artifacts**: Presence of high-frequency artifacts around key areas suggests digital manipulation.
+- **Physical Inconsistencies**: Lighting and gravity issues further support the likelihood of tampering.
+- **Database Matches**: High similarity with known fake patterns reinforces the conclusion.
+
+### Final Verdict
+The image is likely digitally manipulated, supported by both microscopic artifacts and physical inconsistencies.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6426-自然写实摄影风格，过期的寿司盒，寿司米饭变硬变干，生鱼片颜色发暗，整体看起来不新....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the sushi pieces, with shadows falling naturally based on the light source. There are no glaring inconsistencies in shadow direction or intensity.
+   - **Gravity:** The arrangement and positioning of the sushi pieces seem plausible and consistent with gravitational effects.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots suggests potential manipulation or compositing in those areas.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence of these dots suggests areas where texture might have been smoothed unnaturally.
+
+3. **Semantic Consistency:**
+   - The database retrieval indicates a high risk, with similar cases found in a fake database. This suggests that the image may share characteristics with known fraudulent images.
+
+**Conclusion:**
+Based on the detector's confidence, the presence of high-frequency artifacts, and the database match, the image is likely manipulated. The physical elements alone do not show overt inconsistencies, but the feature map and database analysis strongly suggest the image is not authentic.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6471-自然写实摄影风格，变质的麻辣烫盒，汤汁变浑有沉淀，蔬菜发黄变软，丸子表面发黏，背....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict**: FAKE
+- **Confidence**: 99.74%
+- **Database Retrieval**: High risk, matches known fraud patterns.
+
+#### Step 2: Analyze Feature Map
+- **Red/Blue Dots (MAX Regions)**: Indicate high-frequency artifacts. These are present around the meatballs, suggesting possible manipulation or digital alteration.
+- **Green/Yellow Dots (MIN Regions)**: Indicate low-frequency artifacts, showing waxy smoothness or texture loss. These are visible on the liquid surface and the cabbage.
+
+#### Step 3: Check Semantic Consistency
+- The image shows a container of soup with cabbage and meatballs. The arrangement and appearance appear typical for such a dish, but the artifacts suggest digital tampering.
+
+#### Step 4: Conclusion
+- **Physical Inconsistencies**: 
+  - **Light and Shadow**: The lighting appears consistent, but the reflections on the meatballs seem unnaturally sharp.
+  - **Gravity**: The way the cabbage floats appears plausible.
+- **Frequency Artifacts**: The presence of high-frequency artifacts around the meatballs and low-frequency artifacts on the liquid surface suggests digital manipulation.
+
+### Conclusion
+The image is likely digitally altered, as indicated by the high detector confidence and the presence of frequency artifacts. The physical properties show some inconsistencies, particularly in the reflections and textures.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6624-自然写实摄影风格，受潮的汉堡盒，纸质盒子被汤汁浸湿变软，汉堡面包变得 soggy....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+### Step 1: Physical Inconsistencies
+- **Light and Shadow:** The lighting appears consistent with a natural indoor setting. Shadows fall in expected directions given the light source.
+- **Gravity:** The liquid pooling at the bottom of the container behaves as expected under gravity.
+
+### Step 2: Frequency Artifacts
+- **Red/Blue Dots (High-Frequency Artifacts):** These indicate potential tampering areas. The presence of jagged edges or noise in these regions suggests possible manipulation.
+- **Green/Yellow Dots (Low-Frequency Artifacts):** These suggest areas with unusual smoothness or texture loss, which can be indicative of digital alteration.
+
+### Step 3: Semantic Consistency
+- **Database Matches:** The image has a high similarity score with known fraudulent images, indicating a pattern of manipulation consistent with other fake images.
+
+### Conclusion
+Based on the high detector confidence and the presence of frequency artifacts, the image is likely manipulated. The physical aspects appear normal, but the artifacts and database matches strongly suggest tampering.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-6934-变质的肉类，颜色发灰发暗，表面有些粘稠，包装上有液体渗出，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+**Analysis Report**
+
+**1. Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the environment. Shadows align with the light source, but further inspection is needed to confirm authenticity.
+   - **Gravity:** The liquid pooling around the meat seems consistent with gravity, suggesting the object is resting naturally.
+
+**2. Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots near the meat suggests possible tampering or digital manipulation.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The dots on the countertop and packaging suggest potential smoothing or editing.
+
+**3. Semantic Consistency:**
+   - The database retrieval indicates a high risk, with similar cases found in a fake database. The top similarity score of 1.00 suggests this image matches known fraud patterns.
+
+**Conclusion:**
+Based on the detector verdict, feature map analysis, and semantic consistency, the image is highly likely to be digitally manipulated. The presence of frequency artifacts and database matches supports the conclusion of inauthenticity.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-7016-自然写实摄影风格，过期的寿司盒，寿司米饭变硬变干，生鱼片颜色发暗，整体看起来不新....jpg ---
+Patch Map Found: YES
+**Analysis of Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single light source, casting shadows in a coherent direction. However, check for any unnatural shadow angles or highlights that might indicate digital manipulation.
+   - **Gravity:** The sushi pieces are placed naturally on the tray, with no apparent defiance of gravity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots near the edges of the sushi and tray suggests possible digital alterations.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence of these dots might suggest areas where texture has been smoothed or altered.
+
+3. **Conclusion:**
+   - The detector verdict and database retrieval indicate a high likelihood of manipulation. The presence of high-frequency artifacts supports this, suggesting possible digital editing around the edges of the sushi and tray.
+   - Despite the physical consistency of light and gravity, the frequency artifacts and database matches strongly suggest the image is digitally altered.
+
+Overall, the image is likely manipulated, as indicated by the detector and visual artifacts.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-7399-受潮的薯条盒，纸质薯条盒被水汽浸湿变软，薯条变得 soggy 不酥脆，自然写实摄....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict:** FAKE
+- **Confidence:** 100.00%
+- **Database Retrieval:** High risk with matches to known fraud patterns.
+
+#### Step 2: Feature Map Analysis
+- **MAX Regions (Red/Blue Dots):** Indicate high-frequency artifacts such as jagged edges or noise. Notable around the fries and the packaging, suggesting potential digital manipulation.
+- **MIN Regions (Green/Yellow Dots):** Indicate low-frequency artifacts like waxy smoothness or texture loss. Observed on the packaging, indicating possible alterations.
+
+#### Step 3: Physical Inconsistencies
+- **Light and Shadow:** The lighting on the fries and the packaging appears inconsistent with the natural light source, suggesting possible digital enhancements.
+- **Gravity and Placement:** The fries’ arrangement and the way they spill out seem slightly unnatural, which may indicate manipulation.
+
+#### Step 4: Conclusion
+- **Physics & Logic:** The combination of high-frequency artifacts and physical inconsistencies strongly suggests that the image has been digitally altered. The high confidence level and database matches further support this conclusion.
+
+### Final Verdict
+- **Conclusion:** The image is likely fake, with significant evidence of digital manipulation.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-7598-自然写实摄影风格，破损的饮料杯，纸质杯身有裂缝，饮料渗漏出来，杯盖松动，吸管弯曲....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the cup and the liquid spill appears consistent with the kitchen setting. However, the cracks on the cup might not align perfectly with expected shadowing, suggesting they might be digitally added.
+   - **Gravity:** The liquid spill seems plausible, but the angle and position of the cup could be unnatural if the cup is indeed cracked as shown.
+
+2. **Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** The presence of these dots indicates potential jagged edges and noise, especially around the cracks, which suggests digital manipulation.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):** These dots highlight areas of waxy smoothness and texture loss, particularly around the logo and cracks, further indicating possible editing.
+
+3. **Conclusion:**
+   - The combination of physical inconsistencies and frequency artifacts strongly suggests that the image has been digitally altered. The cracks on the cup are likely added, as indicated by the detector's verdict and the feature map analysis.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-7627-打翻的米饭盒，米饭洒在桌面上，盒子倾斜，里面的菜也溢出，自然写实摄影风格，背景为....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image and Feature Map
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow:** The lighting appears consistent with natural light coming from the left side of the image. Shadows fall in the expected direction.
+- **Gravity:** The food spilling out of the container follows a natural path consistent with gravity.
+
+#### 2. Frequency Artifacts
+- **MAX Regions (High-Frequency Artifacts):** 
+  - The blue dots on the rice indicate potential jagged edges or noise, suggesting manipulation in this area.
+- **MIN Regions (Low-Frequency Artifacts):**
+  - The green dots on the upper right corner suggest smoothness and texture loss, which might indicate blending or editing.
+
+#### 3. Semantic Consistency
+- The scene is semantically consistent with a typical kitchen setting.
+
+### Conclusion
+Based on the evidence:
+- **Detector Verdict:** The image is marked as fake with high confidence.
+- **Feature Map Analysis:** Artifacts are present, particularly around the rice, indicating possible digital manipulation.
+- **Database Retrieval:** Matches known fraud patterns, reinforcing the likelihood of tampering.
+
+The image likely contains manipulated elements, particularly around the rice spill, which may have been digitally altered.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-7792-自然写实摄影风格，损坏的外卖米饭盒，塑料盒盖子破裂，米饭洒出，里面的配菜已经变干....jpg ---
+Patch Map Found: YES
+### Analysis of Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The shadows and lighting appear consistent with a typical indoor environment. However, the shadows on the cracked sections of the container might not align perfectly with the light source.
+   - **Gravity:** The way the food is positioned seems plausible, but the cracks in the container suggest an unnatural break pattern that might not occur under normal circumstances.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These areas indicate high-frequency artifacts, suggesting potential manipulation. The jagged edges of the cracks and some noise around the food could be signs of digital alteration.
+   - **Green/Yellow Dots (MIN Regions):** These areas show low-frequency artifacts, indicating possible smoothing or texture loss. The surface of the container and parts of the countertop appear unusually smooth, which might be inconsistent with a real image.
+
+### Conclusion
+
+Based on the detector's confidence and the analysis of physical inconsistencies and frequency artifacts, the image likely exhibits signs of digital manipulation. The unnatural break pattern of the container and the presence of high-frequency artifacts support the verdict of the image being fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-7949-发酵变质的饮料，瓶身膨胀变形，液体有气泡和沉淀，颜色变深，自然写实摄影风格，背景....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single source, likely from a window or overhead light. Shadows and reflections on the bottle align with this light source.
+   - **Gravity:** The liquid and bubbles inside the bottle behave naturally, following expected gravitational effects.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These indicate high-frequency artifacts such as noise or jagged edges. The presence of a red/blue dot suggests potential manipulation in that area, possibly around the bottle's surface.
+   - **MIN Regions (Green/Yellow Dots):** These indicate low-frequency artifacts like waxy smoothness or texture loss. The green/yellow dots suggest areas of the image that may have been smoothed or altered, particularly on the countertop.
+
+3. **Conclusion:**
+   - The image shows signs of digital manipulation, especially around the bottle and countertop areas. The detector's 100% confidence in the image being fake, combined with database matches, supports the conclusion of tampering. The physical properties seem consistent, but the frequency artifacts suggest alterations.
+
+Further investigation into the specific areas marked by the dots could provide more insights into the nature of the manipulation.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8025-被压扁的汉堡包装，汉堡面包变形，生菜和酱料挤出包装外，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the image, with shadows falling naturally based on the light source. However, the reflection on the sauce might be slightly exaggerated.
+   - **Gravity:** The sauce appears to be dripping naturally, adhering to gravity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots on the burger and sauce suggests possible manipulation or digital enhancement.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The bun and lettuce show these artifacts, which could indicate smoothing or blending inconsistencies.
+
+### Conclusion
+
+Based on the detector's high confidence and the feature map analysis, there are significant signs of digital manipulation. The presence of both high and low-frequency artifacts suggests potential editing, particularly around the edges and textures of the food items. The image might have been altered to enhance its visual appeal, aligning with known fraud patterns.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8052-洒出的便当盒，塑料便当盒盖子没有盖紧，里面的饭菜洒出到盒子外面，米饭和配菜散落，....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single light source, likely from above, as shadows fall naturally under the container and food.
+   - **Gravity:** The spilled food and rice grains are positioned in a way that is consistent with gravity, suggesting a natural spill.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These areas indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots on the food suggests possible digital manipulation.
+   - **MIN Regions (Green/Yellow Dots):** These areas indicate low-frequency artifacts, such as waxy smoothness or texture loss. The presence of these dots suggests some smoothing or blending, possibly to cover edits.
+
+### Conclusion
+
+Based on the analysis:
+
+- The **detector verdict** of FAKE with a 99.99% confidence is supported by the presence of high-frequency artifacts (MAX regions) and low-frequency artifacts (MIN regions) in the feature map.
+- The **physical consistency** of light and gravity does not immediately reveal manipulation, but the artifacts suggest digital alterations.
+- The **database retrieval** indicating high risk and similar cases further supports the likelihood of this image being manipulated.
+
+The image is likely digitally altered, aligning with the detector's verdict.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8067-stale的饼干，包装袋破损，饼干受潮变软，颜色发暗，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis of the Image and Feature Map
+
+#### Physical Inconsistencies
+1. **Light and Shadow:**
+   - The lighting appears consistent with a single light source, likely overhead. Shadows cast by the cookies and the packaging align with this light source.
+   - No obvious discrepancies in shadow direction or intensity.
+
+2. **Gravity:**
+   - The cookies are positioned naturally, with some lying flat and others leaning against the packaging, consistent with gravity.
+
+#### Frequency Artifacts
+1. **High-Frequency Artifacts (Red/Blue Dots):**
+   - **Location:** On the cookie in the foreground.
+   - **Observation:** Presence of jagged edges and noise, suggesting possible digital manipulation or compression artifacts.
+
+2. **Low-Frequency Artifacts (Green/Yellow Dots):**
+   - **Location:** On the countertop and background.
+   - **Observation:** Areas marked by green/yellow dots appear overly smooth, indicating potential texture loss or blending issues typical in edited images.
+
+#### Conclusion
+- **Detector Confidence:** The system's verdict of "FAKE" with 100% confidence is supported by the presence of high-frequency artifacts on the cookies and low-frequency artifacts on the countertop.
+- **Database Retrieval:** The image matches known fraud patterns, further supporting the likelihood of manipulation.
+- **Overall Assessment:** The image shows signs of digital alteration, particularly around the cookies and countertop, consistent with the detector's verdict.
+
+Given these observations, the image is likely manipulated, aligning with the detector's high confidence in its assessment.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8067-破损的面条包装盒，盖子没有盖紧，面条和汤汁洒出一部分在盒子外面，包装有些变形，自....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the noodles and the box appears consistent with the ambient light sources. Shadows are cast in a direction that aligns with the light source.
+   - **Gravity:** The noodles spilling from the box follow a natural path due to gravity, suggesting realistic physics.
+
+2. **Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** These are present around the box edges and the noodles, indicating potential manipulation. Jagged edges and noise suggest editing.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):** The countertop shows waxy smoothness and texture loss, typical signs of digital alteration.
+
+### Conclusion
+
+Based on the detector's verdict and the analysis of visual artifacts:
+
+- **Detector Confidence:** The detector's 100% confidence in the image being fake is supported by the presence of high-frequency artifacts indicating editing.
+- **Semantic Consistency:** The image matches known fraud patterns in the database, further suggesting inauthenticity.
+- **Physical Logic:** Despite the realistic appearance of light and gravity, the frequency artifacts suggest digital manipulation.
+
+Overall, the image is likely fabricated or significantly altered.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8069-stale的麦片，包装袋破损，麦片受潮结块，颜色发暗，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting seems consistent with a single light source, likely from the top left. The shadows cast by the cereal and the box align with this light source.
+   - **Gravity:** The cereal pieces appear naturally positioned, as if they have spilled out of the box, consistent with gravitational pull.
+
+2. **Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** These are visible near the cereal pieces and the edge of the box. This suggests potential digital manipulation, as these areas show signs of jagged edges and noise.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):** These dots are present on the table surface and parts of the cereal, indicating areas of texture loss and smoothness that might not be natural.
+
+### Conclusion
+
+- **Detector Confidence:** The image is marked as fake with 100% confidence, indicating strong evidence of digital manipulation.
+- **Feature Map Analysis:** The presence of both high-frequency and low-frequency artifacts supports the detector's verdict. The artifacts suggest possible editing in the cereal and box areas.
+- **Database Retrieval:** High risk due to similarities with known fraudulent patterns.
+
+Overall, the image likely has been digitally altered, particularly around the cereal and box, as indicated by the artifacts and the detector's confidence.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8199-有异物的面条盒，面条里混有头发丝、塑料片等异物，面条颜色发暗，自然写实摄影风格，....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image and Feature Map
+
+#### 1. Physical Inconsistencies
+- **Light and Shadow**: The lighting appears consistent across the image, with shadows falling as expected based on the light source. There are no obvious discrepancies in shadow direction or intensity.
+- **Gravity and Placement**: The objects (hair, plastic pieces) appear to rest naturally on the noodles, consistent with gravity. However, the presence of these objects is unusual and suggests tampering.
+
+#### 2. Frequency Artifacts
+- **Red/Blue Dots (MAX Regions)**: These indicate high-frequency artifacts, typically associated with digital manipulation. The presence of red and blue dots near the center suggests possible tampering around the hair and plastic pieces, indicating they may have been digitally added.
+- **Green/Yellow Dots (MIN Regions)**: These indicate low-frequency artifacts, which can suggest smoothing or texture loss. The areas with green and yellow dots seem consistent with the rest of the image, showing no significant smoothing.
+
+#### 3. Semantic Consistency
+- The unusual combination of objects in the noodles (hair, plastic) is consistent with known fraud patterns, as indicated by the database retrieval. This suggests an attempt to create a deceptive or shocking image.
+
+### Conclusion
+Based on the high detector confidence, the presence of frequency artifacts, and the semantic inconsistency of the objects within the noodles, it is highly likely that this image has been manipulated. The image is consistent with known fraudulent patterns and should be considered fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8276-变质的肉类，颜色发灰发暗，表面有些粘稠，包装上有液体渗出，自然写实摄影风格，自然....jpg ---
+Patch Map Found: YES
+**Analysis Summary:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with a single light source. Shadows and reflections on the packaging align with the light direction.
+   - **Gravity:** The liquid pooling and the way the meat is settled in the bag appear consistent with gravity.
+
+2. **Frequency Artifacts (Feature Map Analysis):**
+   - **Red/Blue Dots (MAX Regions):** Indicate high-frequency artifacts, such as jagged edges or noise. These are visible around the edges of the meat and the liquid, suggesting possible digital manipulation.
+   - **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts, such as waxy smoothness or texture loss. These are visible on the surface of the meat, which may suggest smoothing or blurring.
+
+3. **Semantic Consistency:**
+   - The image matches known fraud patterns with a high similarity score, indicating it may be a composite or manipulated image.
+
+**Conclusion:**
+The image shows signs of digital manipulation, particularly around the edges and surface textures. The high detector confidence and database match further suggest that this image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8310-溢出的粥杯，纸质粥杯倾斜，粥从杯口溢出，杯身有粥渍，桌面湿滑，自然写实摄影风格，....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### Step 1: Detector Confidence
+- **Verdict:** FAKE
+- **Confidence:** 99.90%
+- **Database Retrieval:** High risk with known fraud patterns.
+
+#### Step 2: Feature Map Analysis
+- **Red/Blue Dots (MAX Regions):** Indicate high-frequency artifacts such as jagged edges or noise.
+  - **Location:** Near the edge of the table and the spilled liquid.
+- **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts such as waxy smoothness or texture loss.
+  - **Location:** On the table surface and in the liquid.
+
+#### Step 3: Physical Inconsistencies
+- **Light and Shadow:** 
+  - The shadows and reflections on the table surface appear inconsistent with the lighting source.
+- **Gravity:**
+  - The flow of the liquid seems unnatural, particularly where it interacts with the table edge.
+
+#### Step 4: Conclusion
+- **Frequency Artifacts:** The presence of MAX regions suggests digital manipulation, especially around the edges and liquid.
+- **Physical Logic:** Inconsistencies in light, shadow, and liquid flow further support the likelihood of tampering.
+
+### Conclusion
+The image shows signs of digital manipulation, confirmed by both the detector's high confidence and the feature map analysis. The physical inconsistencies in lighting and liquid behavior reinforce the conclusion that the image is likely fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8320-变酸的酱料瓶，瓶盖周围有酱料溢出干涸，瓶内液体有气泡和沉淀，自然写实摄影风格，背....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+### Step 1: Physical Inconsistencies
+- **Light and Shadow:** The lighting on the jar appears consistent with the direction of light in the room. Shadows are appropriately cast on the countertop.
+- **Gravity:** The liquid inside the jar behaves naturally, with bubbles and particles suspended in a realistic manner.
+
+### Step 2: Frequency Artifacts
+- **Red/Blue Dots (MAX Regions):** These indicate potential high-frequency artifacts. The presence of a blue dot near the jar lid suggests possible manipulation in that area, such as added or altered details.
+- **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts. The green dot on the countertop suggests areas of smoothness that might have been overly smoothed or edited, possibly to blend inconsistencies.
+
+### Step 3: Semantic Consistency
+- **Database Matches:** The image has been flagged with a high-risk similarity score in the fake database, indicating known fraud patterns. This suggests the image may have been manipulated in a way consistent with other fraudulent images.
+
+### Step 4: Conclusion
+Based on the high detector confidence and feature map analysis, there are signs of digital manipulation, particularly around the jar lid and countertop. The image is likely altered, consistent with the database findings.
+
+**Recommendation:** Treat this image as potentially fraudulent, especially if being used for verification or evidence purposes. Further investigation into the context and source of the image is advised.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8657-溢出的粥杯，纸质粥杯倾斜，粥从杯口溢出，杯身有粥渍，桌面湿滑，自然写实摄影风格，....jpg ---
+Patch Map Found: YES
+### Analysis
+
+**1. Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the cup and the spilled contents appears consistent with the light source. Shadows align with the expected direction given the light source.
+   - **Gravity:** The spill follows a natural flow, consistent with gravity, spreading outward from the cup.
+
+**2. Frequency Artifacts:**
+   - **MAX Regions (High-Frequency Artifacts):** The blue dot indicates potential jagged edges or noise. This is located near the base of the cup, where the liquid meets the surface, suggesting possible digital manipulation.
+   - **MIN Regions (Low-Frequency Artifacts):** The green and yellow dots indicate areas of waxy smoothness or texture loss. These are on the surface of the liquid, suggesting possible smoothing or blending inconsistencies.
+
+**3. Semantic Consistency:**
+   - The image matches known fraud patterns with a high similarity score, indicating it may share characteristics with other manipulated images.
+
+### Conclusion
+
+Based on the detector verdict, feature map analysis, and semantic consistency, the image is likely digitally manipulated. The frequency artifacts suggest possible alterations around the spill area, and the high similarity with known fake patterns supports this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8827-腐烂的蔬菜，西兰花发黄枯萎，花椰菜有黑斑和软化部分，自然写实摄影风格，背景为普通....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Lighting and Shadows:** The lighting appears consistent across the image, with shadows falling naturally according to the light source. There are no obvious discrepancies in shadow direction or intensity.
+   - **Gravity:** The positioning of the object on the surface seems physically plausible, with no signs of manipulation or defiance of gravity.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These areas indicate high-frequency artifacts, such as jagged edges or noise. The presence of these dots suggests potential digital alterations or inconsistencies in texture.
+   - **Green/Yellow Dots (MIN Regions):** These areas show low-frequency artifacts, like waxy smoothness or texture loss. This can indicate areas of digital smoothing or manipulation.
+
+3. **Semantic Consistency:**
+   - The image matches known patterns of manipulation found in the database, with a high similarity score of 0.90. This suggests that the image may have been altered in a manner consistent with known fraudulent cases.
+
+**Conclusion:**
+Based on the detector's high confidence verdict, the presence of frequency artifacts, and the database retrieval results, the image is likely manipulated. The physical properties seem consistent, but the digital artifacts indicate possible editing.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8859-stale的麦片，包装袋破损，麦片受潮结块，颜色发暗，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+**Analysis of Original Image and Feature Map:**
+
+### Step 1: Physical Inconsistencies
+- **Light and Shadow:** The lighting appears consistent across the image, with shadows cast by the cereal and box aligning with the light source.
+- **Gravity:** The cereal appears to be spilling naturally from the box, consistent with gravitational pull.
+
+### Step 2: Frequency Artifacts
+- **Red/Blue Dots (MAX Regions):** Indicate high-frequency artifacts, such as jagged edges or noise. These are present around the cereal and the edges of the box, suggesting possible manipulation.
+- **Green/Yellow Dots (MIN Regions):** Indicate low-frequency artifacts, such as waxy smoothness or texture loss. These are observed on the countertop, which may suggest smoothing or blending to hide edits.
+
+### Step 3: Semantic Consistency
+- The database retrieval indicates a high risk with similar cases found in known fraud patterns, suggesting this image may have been altered in a way consistent with those patterns.
+
+### Conclusion
+- **Verdict:** The image is likely manipulated based on the presence of frequency artifacts and the high-risk database retrieval. The physical aspects appear consistent, but the artifacts suggest digital alteration.
+
+Further investigation into the specific areas marked by the dots could provide more insight into the nature of the manipulation.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8882-洒出的便当盒，塑料便当盒盖子没有盖紧，里面的饭菜洒出到盒子外面，米饭和配菜散落，....jpg ---
+Patch Map Found: YES
+**Analysis of the Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The shadows appear consistent with the lighting source, suggesting no immediate discrepancies in illumination.
+   - **Gravity:** The food spill and its interaction with the surface seem physically plausible, with rice and sauce spreading naturally.
+
+2. **Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** 
+     - The presence of blue and red dots indicates potential manipulation in those areas, such as the food spill and the container's edge.
+     - These regions may exhibit jagged edges or noise, suggesting digital alterations.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):**
+     - The green and yellow dots show areas of smoothness, like the container lid, which might have texture loss or appear overly smooth.
+
+3. **Conclusion:**
+   - The high detector confidence and database matches strongly suggest that the image has been digitally manipulated.
+   - The artifacts identified in the feature map support this conclusion, indicating potential tampering in specific areas.
+
+The image is likely not authentic based on the analysis of physical and frequency inconsistencies.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-8888-漏汤的麻辣烫盒，盒子底部有破洞，汤汁渗漏出来，里面的食材浸泡在汤汁中，自然写实摄....jpg ---
+Patch Map Found: YES
+**Analysis of the Image:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the container and the spilled liquid appears consistent with the environment. However, the shadow around the torn area looks unnatural and inconsistent with the light source.
+   - **Gravity:** The liquid spill seems plausible, but the way the container is torn and the liquid is flowing out appears exaggerated and unrealistic.
+
+2. **Frequency Artifacts:**
+   - **High-Frequency Artifacts (Red/Blue Dots):** These are concentrated around the torn area of the container, indicating possible manipulation. The jagged edges suggest digital alteration.
+   - **Low-Frequency Artifacts (Green/Yellow Dots):** The smoothness around the torn area and the liquid spill suggests texture loss, typical of digital edits.
+
+3. **Semantic Consistency:**
+   - The image has a moderate similarity to known fakes, suggesting elements of the image might have been digitally altered or composited.
+
+**Conclusion:**
+The image shows signs of digital manipulation, especially around the torn area of the container and the liquid spill. The high-frequency artifacts and physical inconsistencies support the detector's verdict of the image being fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-9035-自然写实摄影风格，漏水的汤杯，纸质汤杯底部有破洞，汤汁渗漏出来，杯身变形，里面的....jpg ---
+Patch Map Found: YES
+### Analysis of the Original Image
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the cup and the surrounding liquid appears consistent with a single light source, likely overhead. Shadows and reflections seem natural.
+   - **Gravity:** The liquid spill follows a believable pattern, pooling naturally around the base of the cup.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, which suggest possible manipulation. The area around the tear in the cup and the liquid spill shows these artifacts, pointing to potential editing.
+   - **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, suggesting areas of smoothness or texture loss. The cup’s surface and the countertop show some of these artifacts, which could be signs of digital alteration.
+
+### Conclusion
+
+- The detector's high confidence verdict of "FAKE" is supported by the presence of high-frequency artifacts around the tear and spill, which are common indicators of image manipulation.
+- The physical consistency of light and gravity does not immediately suggest tampering, but the frequency artifacts provide strong evidence of digital editing.
+- Given the database retrieval results showing similarity to known fake patterns, it is likely that this image has been digitally altered.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-9239-发霉的包子盒，透明盒子里的包子表面有绿色霉菌斑点，包子皮变软发黏，自然写实摄影风....jpg ---
+Patch Map Found: YES
+**Analysis Summary**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent with the environment, but the shadows and highlights on the buns may not align perfectly with the light source.
+   - **Gravity:** The green substance on the buns seems unnaturally distributed, suggesting possible digital manipulation.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** Indicate high-frequency artifacts, such as jagged edges and noise, around the buns, particularly where the green substance is present.
+   - **MIN Regions (Green/Yellow Dots):** Indicate low-frequency artifacts, such as waxy smoothness, suggesting texture loss in the same areas.
+
+3. **Semantic Consistency:**
+   - High similarity with known fake cases suggests a pattern of manipulation, likely involving the addition of mold-like features.
+
+**Conclusion:**
+The image is likely digitally altered, with the green substance on the buns being artificially added. The presence of high-frequency artifacts and known fraud patterns further supports this conclusion.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-9244-发霉的奶酪，表面有绿色和蓝色的霉菌，奶酪边缘干硬开裂，自然写实摄影风格，背景为普....jpg ---
+Patch Map Found: YES
+### Analysis
+
+#### 1. Physical Inconsistencies
+- **Lighting and Shadow:** The lighting appears consistent with a single light source, casting shadows that align with the object's position on the table.
+- **Gravity:** The cheese rests naturally on the surface, with no apparent defiance of gravity.
+
+#### 2. Frequency Artifacts
+- **Red/Blue Dots (MAX Regions):** These indicate high-frequency artifacts, typically seen in areas with abrupt changes or noise. The presence of such dots near the mold spots suggests potential digital manipulation.
+- **Green/Yellow Dots (MIN Regions):** These indicate low-frequency artifacts, often resulting in smooth areas lacking texture. The dots on the cheese surface suggest texture loss, which could be a sign of editing.
+
+#### 3. Semantic Consistency
+- **Database Matches:** The image has high similarity scores with known fake cases, indicating it might share characteristics with manipulated images.
+
+### Conclusion
+Based on the feature map analysis and the detector's verdict, the image likely contains digital alterations, particularly around the mold spots and surface texture. The presence of high-frequency artifacts and texture loss supports the conclusion that this image may be fake.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-9443-过期的罐头食品，罐头表面有锈迹，标签发黄褪色，有些罐头盖子鼓起变形，自然写实摄影....jpg ---
+Patch Map Found: YES
+**Analysis of Original Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting appears consistent across the cans and the countertop, with shadows falling in the expected direction. However, check for any mismatched shadows or reflections that might indicate manipulation.
+   - **Gravity:** The cans appear to be resting naturally on the countertop, with no obvious signs of defying gravity.
+
+2. **Frequency Artifacts:**
+   - **MAX Regions (Red/Blue Dots):** These indicate areas with high-frequency artifacts, such as jagged edges or noise. The presence of a red dot on the can suggests potential tampering in that area.
+   - **MIN Regions (Green/Yellow Dots):** These indicate low-frequency artifacts, such as waxy smoothness or texture loss. The green dots on the cans suggest areas where texture may have been artificially smoothed.
+
+3. **Conclusion:**
+   - The detector verdict of "FAKE" with a high confidence level and database retrieval indicating similar fraud patterns suggests that the image might have been manipulated.
+   - Pay particular attention to the areas marked by the dots for any unnatural textures or inconsistencies.
+   - Further analysis could involve checking for any mismatches in perspective or alignment that could indicate digital alteration.
+
+Overall, the evidence suggests potential manipulation, especially in the regions marked by the feature map.
+
+==================================================
+
+--- Case: jimeng-2025-12-19-9743-变质的豆制品，豆腐表面发粘，有酸味，包装膨胀变形，自然写实摄影风格，背景为普通的....jpg ---
+Patch Map Found: YES
+**Analysis of the Image and Feature Map:**
+
+1. **Physical Inconsistencies:**
+   - **Light and Shadow:** The lighting on the tofu block appears consistent with the ambient light in the kitchen setting. Shadows are cast naturally, aligning with the light source direction.
+   - **Gravity:** The way the packaging wraps around the tofu seems consistent with gravitational pull, suggesting a realistic interaction with the environment.
+
+2. **Frequency Artifacts:**
+   - **Red/Blue Dots (MAX Regions):** These dots indicate high-frequency artifacts, often seen in areas with sharp edges or noise. The presence of these dots on the edges of the tofu and packaging could suggest potential manipulation, such as added sharpness or noise.
+   - **Green/Yellow Dots (MIN Regions):** These dots indicate low-frequency artifacts, such as smoothness or texture loss. The presence on the tofu surface might suggest some digital smoothing or texture alteration.
+
+3. **Semantic Consistency:**
+   - The image matches known fraud patterns with a high similarity score in the database, indicating it may be part of a set of manipulated images.
+
+**Conclusion:**
+Based on the detector's high confidence verdict, the presence of frequency artifacts, and database matches, the image likely contains digital alterations. The physical aspects appear consistent, but the frequency artifacts suggest manipulation, supporting the detector's conclusion of the image being fake.
+
+==================================================
+
